@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Java架构师3期\第1部分：架构师内功心法\01-为什么要从设计模式开始及工厂模式详解\课堂源码\课堂源码\gupaoedu-vip-pattern-factory\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
